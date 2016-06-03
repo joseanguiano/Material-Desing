@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Una Mas</string>
+    <string name="texto">Bienvenido a la tarea</string>
+    <string name="boton">Aceptar</string>
+</resources>
